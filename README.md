@@ -1,4 +1,4 @@
-<h1>Hello, World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+<h1>Hello, World</h1> 
 
 ![](https://komarev.com/ghpvc/?username=elgerjp&color=0c0c0c)
 
