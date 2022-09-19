@@ -5,7 +5,7 @@
 <img src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="cute-cat-programming" height="300px">
 <h2>About me</h2>
 <p align="left"> 
-  I am Elger, graduating in Computer Engineering by UTFPR, 22 years old. I've already worked in both front-end and back-end development mainly with Python and JavaScript           (Django, Flask, Bootstrap and Angular), I am specialized in chat-bots development, I've also got some experience and skills in data science, A.I. development and DevOps as well.
+  I am Elger, graduated in Computer Engineering by UTFPR, 23 years old. I've already worked in both front-end and back-end development mainly with Python and JavaScript           (Django, Flask and NodeJS). I am specialized in software architecture, design patterns and microservices development, I've also got some experience and skills in data science, A.I. development and DevOps.
 
   Check out my <a href="https://www.linkedin.com/in/elgerjp/" alt="Linkedin">LinkedIn</a> to see my whole journey.
   <br>
