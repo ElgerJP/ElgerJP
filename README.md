@@ -7,6 +7,8 @@
 <p align="left"> 
   I am Elger, graduated in Computer Engineering by UTFPR, 23 years old. I've already worked in both front-end and back-end development mainly with Python and JavaScript           (Django, Flask and NodeJS). I am specialized in software architecture, design patterns and microservices development, I've also got some experience and skills in data science, A.I. development and DevOps.
 
+  Currently working mainly with big data, A.I. applications and getting my master's in computer science at UFRGS.
+
   Check out my <a href="https://www.linkedin.com/in/elgerjp/" alt="Linkedin">LinkedIn</a> to see my whole journey.
   <br>
   <br>
